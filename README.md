@@ -11,8 +11,8 @@ An Object-Oriented Program written in C++.
 6. Handles different types of errors.
 
 ## What Object Do We Have?
-1. Simple elections, An elections with parties only(similar to the elections in Israel).
-2. Regular elections, An elections with counties and parties(similar to the elections at the USA).
+1. Simple elections, elections with parties only (similar to the elections in Israel).
+2. Regular elections, elections with counties and parties(similar to the elections at the USA).
 3. County.
 4. Party.
 5. Citizen.
